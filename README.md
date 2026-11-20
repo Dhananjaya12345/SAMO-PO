@@ -42,10 +42,10 @@ Upon successful execution, the notebook will generate the following files in you
 If you use this code or dataset in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{YourLastName2026SAMOPO,
+@inproceedings{2026SAMOPO,
   title={Security-Aware Multi-Objective Prompt Optimization for LLM Agents: Balancing Task Performance and Adversarial Robustness},
-  author={Your First Name and Your Last Name},
+  author={Dhananjaya Lahiru Bandara},
   booktitle={Proceedings of the IEEE SCSE Conference},
   year={2026},
-  doi={10.5281/zenodo.XXXXXXX} % Replace with your Zenodo DOI
+  doi={ DOI: 10.5281/zenodo.24406265} 
 }
