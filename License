@@ -1,0 +1,7 @@
+
+### Why this README is good for your submission:
+1. **It tells reviewers exactly what GPU to use:** They won't try to run it on a CPU and get frustrated when it crashes.
+2. **It manages expectations:** It explicitly lists the output files (Tables II, III, etc.) so the reviewer knows exactly what to look for to verify your paper.
+3. **It provides the BibTeX citation:** This makes it easy for other researchers to cite you in the future, which boosts your citation count. 
+
+Once you upload this README to GitHub, follow the Zenodo steps from my previous message, and your code artifact will be completely ready for the paper!
